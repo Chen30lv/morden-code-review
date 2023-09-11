@@ -1,5 +1,5 @@
 # morden-code-review
-This is the class mcr project of our group.
+This is for MCR excercise
 
 Author: Guanchen Lyu  
 Moderator:Yuchen Wang  
