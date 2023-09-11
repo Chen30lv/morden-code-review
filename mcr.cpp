@@ -19,8 +19,6 @@ bool isWin(char game[3][3]){
 
 int main(){
     int i, j;
-    i = -1;
-    j = -1;
     char game[3][3] = {'0'}; // Tic-tac-toe
     char c;
     bool turn = true; // false for player 1's turn, true for player 2's turn. Player 1 first.
